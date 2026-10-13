@@ -1,6 +1,6 @@
 from pyscript import document
 
-club_members = ["John Hizon", "Mark Ladion", "Paul Urbano", "James Diaz", "Carlos Magsalin", "Daniel Lee"]
+club_members = ["Phoenix Hizon", "Nathan Ladion", "Erin Urbano", "James Diaz", "Jericho Magsalin", "Louie Lee"]
 
 def check_club(e):
     first_name = document.getElementById("firstName").value
